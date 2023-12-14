@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html>
+<head>
+    <title>sude</title>
+</head>
+<body>
+    <h1>TEKNOLOJİ BAĞIMLILIĞI</h1>
+    <p>Bu, bir kişinin belirli teknolojiler ve cihazlar olmadan yapamadığı bir bağımlılık türüdür.Bu teknolojilere olan aşırı bağımlılık kişinin fonksiyonel yeteneklerini önemli ölçüde köreltebilir. Bu da yaşam kalitesi üzerinde ciddi olumsuz etkilere neden olabilir.</p>
+    <em>en yaygın bağımlılık türleri</em> <br>
+    <p>Sosyal medya ve mesajlaşma,Akıllı telefonlar ve tabletler,Oyunlar ve çevrimiçi eğlence, İnternet alışverişi ve çevrimiçi alışveriş,Online video ve yayın hizmetleri,Bilgisayar programları ve uygulamalar,Yapay Zeka Teknolojileri,</p>
+    <h2>Bu daha az büyük bir başlık</h2>
+             <ul>
+                   <li>teknoloji bağımlılık türleri</li>
+                   <li>bu da ikinci öğe</li>
+             </ul>
+     <img src="https://yasamtekno.com/wp-content/uploads/2020/12/teknoloji-nedir.png" alt="Image1" width="900" height="450">
+</body>
+</html>
